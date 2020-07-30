@@ -1,0 +1,19 @@
+{
+  "name": "apiwork",
+  "version": "0.1.0",
+  "description": "Application for working with RESTful API",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alex Flitcher",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "request": "^2.88.2"
+  }
+}
