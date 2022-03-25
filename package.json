@@ -9,7 +9,7 @@
   "author": "Alex Flitcher",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
-    "electron": "^9.1.1"
+    "electron": "^13.6.6"
   },
   "dependencies": {
     "bootstrap": "^4.5.0",
